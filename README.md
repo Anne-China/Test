@@ -14,6 +14,6 @@ so excited!:blush:
 #### 四级标题<br>
 ##### 五级标题<br>
 ###### 六级标题<br>
-### 错误记录<br>
+### * 错误记录<br>
 刚刚设置Study Notes是一直不显示二级标题（因为我想设置二级标题），后来在Study Notes后面手动换行了就正常显示。:relaxed:
 
